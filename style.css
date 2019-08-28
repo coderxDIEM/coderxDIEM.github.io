@@ -1,0 +1,36 @@
+html, body, header, #intro {
+  height: 100%;
+}
+
+.baseColor {
+  background-color: #EDDEF7;
+}
+
+#intro {
+  background: url("https://images.discerningassets.com/image/upload/q_auto/c_fit,h_600,w_600/v1490500403/On_the_Right_Path_xshcsk.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.circular2 {
+  border-radius: 10%;
+}
+
+.mystory {
+  height: 20px;
+}
+
+.heart, .tree, .camera {
+  height: 60px;
+}
+
+.textRed {
+  color: red;
+}
+
+hr {
+  border-top: 4px dotted blue;
+}
