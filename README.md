@@ -1,6 +1,6 @@
 # coderxDIEM.github.io
 
-■	What your page does
+●	What your page does
 Ans: I have created this personal portfolio website, which consists of a few sections, namely, about me, my story, gallery and contact. 
 
 ●	Do a short description to walk us through your intentions/thoughts behind the creation of this page. You can include relevant hand-drawn sketches/etc.
