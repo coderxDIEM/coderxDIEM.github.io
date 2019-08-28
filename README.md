@@ -1,6 +1,7 @@
 # coderxDIEM.github.io
 
-■	What your page doesAns: I have created this personal portfolio website, which consists of a few sections, namely, about me, my story, gallery and contact. 
+■	What your page does
+Ans: I have created this personal portfolio website, which consists of a few sections, namely, about me, my story, gallery and contact. 
 
 ●	Do a short description to walk us through your intentions/thoughts behind the creation of this page. You can include relevant hand-drawn sketches/etc.
 Ans: First is the "about me" section which consist of a short snippet about myself, where I have put a button to attract the readers and for them to click and find out more about me. Next, is "my story" section where I share my experience of my recent trip to Korea, my interests of climbing mountain as well as my cycling hobby. This section was included to give readers a sneak peek into my life. Subsequently come the gallery segment, where I wanted to share some awesome and beautiful taken nature pictures. Finally, there is this contact me part where readers insert their message and I will reply them via email. 
