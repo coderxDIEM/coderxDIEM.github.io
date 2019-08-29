@@ -22,4 +22,4 @@ Ans: All provided by Frae or can be found in Bootstrap help.
 
 ■	URL to your live site
 
-Ans: https://coderxdiem.github.io/JR_Portfolio.html
+Ans: https://coderxdiem.github.io/JR.html
